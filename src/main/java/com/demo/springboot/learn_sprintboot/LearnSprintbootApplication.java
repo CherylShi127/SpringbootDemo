@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class LearnSprintbootApplication {
 	@RequestMapping("/")
 	public String home(){
-		return "Dockerizing Spring Boot Application test";
+		return "Dockerizing Spring Boot Application test2";
 	}
 
 	public static void main(String[] args) {
